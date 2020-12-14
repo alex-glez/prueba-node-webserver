@@ -1,9 +1,9 @@
 # Práctica sencilla node. 
 
-###Descripción:
+### Descripción:
 
 Webserver simple usando express, hbs.
 
-###Instalación:
+### Instalación:
 
 npm install
