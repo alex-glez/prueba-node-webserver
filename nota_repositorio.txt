@@ -1,0 +1,16 @@
+Para la formación de NodeJS que se hizo con el curso de Udemy se creó un repositorio distinto a los de los proyectos habituales, como indicaba el curso, en GitHub.
+
+**En cuanto a usuarios**
+
+En GitHub se tenía un usuario ya registrado anteriormente sólo para preguntar dudas en proyectos como Linphone o similar, y no se usaba para nada más. Ese usuario era alexiagonzalez y tenía configurado el correo del trabajo y pwd almacenado en chrome. Sin embargo, no se quiso usar ese para no asociarlo, así que se creó uno con el mail personal llamado alex-glez, que es el creador de la cuenta donde está el repositorio, sin embargo, al hacer commits, debido a la configuración anterior del usuario y mail de git que se puede observar en el terminal por ejemplo con git config --list (usuario Alejandro González y mail agonzalez@zennio.com), que es una configuración previa usada para los proyectos en general (Z41, ZenCom..), el que parece figurar como creador de los commits por una carambola luego es alexiagonzalez, que también existe con el mismo mail agonzalez@zennio.com como usuario de GitHub.
+
+De momento se dejó así para no interferir más con la configuración git habitual de proyectos. Revisar en el futuro si se quisiera tratar de optimizar para usar sólo el usuario Alex-Glez como desarrollador que suba commits en esas prácticas.
+
+**En cuanto a repositorios locales**
+
+A todo esto, las prácticas eran algo simple y se hacían normalmente desde la carpeta node del Escritorio.
+
+Al clonar el repo vía Source Tree, se creó otro repositorio local en el path habitual de repositorios de Zennio, por lo que finalmente existían 2 repos locales similares con los que poder trabajar igualmente, el del escritorio, crado vía terminal siguiendo el curso, que posiblemente desaparecería, y el del path habitual (/Users/alexgonzalez/Repositorio/Git), creado al clonarlo vía SourceTree.
+
+Si desde cualquiera de los 2, sea vía SourceTree o terminal, se sube algo nuevo, aparecerá como pendiente al trabajar desde el otro. Con un push (o git push origin master desde terminal) bastaría para ponerse al día en cualquiera de ellos.
+
