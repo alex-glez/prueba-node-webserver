@@ -2,8 +2,9 @@
 
 ### Descripción:
 
-Webserver simple usando express, hbs.
+Webserver simple usando NodeJS, express, HBS.
 
 ### Instalación:
 
 npm install
+
